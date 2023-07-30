@@ -27,6 +27,11 @@ button {
   color: white;
 }
 
+.refresh{
+  background: blue;
+  color: white;
+}
+
 .discard {
   background: red;
   color: white;
